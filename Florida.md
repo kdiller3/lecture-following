@@ -6,3 +6,11 @@
 4. Beachy
 5. Gulf of Mexico
 6. More good food
+
+# What is Illinois like?
+1. Cold
+2. Snowy
+3. Stressful
+4. Expensive
+5. Some good restaurants
+6. Busy

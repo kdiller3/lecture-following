@@ -5,6 +5,7 @@
 3. Many good restaurants
 4. Beachy
 5. Oceans and gulfs
+5. Atlantic Ocean
 6. More good food
 
 # What is Illinois like?

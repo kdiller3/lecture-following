@@ -4,7 +4,7 @@
 2. Warm
 3. Many good restaurants
 4. Beachy
-5. Gulf of Mexico
+5. Oceans and gulfs
 6. More good food
 
 # What is Illinois like?
